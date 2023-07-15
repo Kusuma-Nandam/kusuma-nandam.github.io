@@ -1,6 +1,6 @@
 # Portfolio | Kusuma Nandam
 
-This is a portfolio website for Kusuma Nandam, showcasing their skills, education, certifications, and contact information.
+This is a portfolio website for Kusuma Nandam, showcasing my skills, education, certifications, and contact information.
 
 ## Table of Contents
 
@@ -11,19 +11,19 @@ This is a portfolio website for Kusuma Nandam, showcasing their skills, educatio
 
 ## About Me
 
-In this section, you can find information about Kusuma Nandam, including a brief introduction and personal details.
+In this section, you can find information about me, including a brief introduction and personal details.
 
 ## Education
 
-This section provides details about Kusuma Nandam's educational background, including their college, degree, and relevant courses.
+This section provides details about my educational background, including college, degree, and relevant courses.
 
 ## Skills/Certifications
 
-Here, you can find a list of Kusuma Nandam's skills and certifications. Each certification is accompanied by a brief description and a link to view the certificate.
+Here, you can find a list of  skills and certifications. Each certification is accompanied by a brief description and a link to view the certificate.
 
 ## Contact
 
-This section includes a contact form where visitors can reach out to Kusuma Nandam. It also provides a map to showcase their location.
+This section includes a contact form where visitors can reach out. It also provides a map to showcase my location.
 
 ## How to Use
 
